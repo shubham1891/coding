@@ -1,3 +1,6 @@
+# neglect exe files
+*.exe
+
 #################
 ## Eclipse
 #################
